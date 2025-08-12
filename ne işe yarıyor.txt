@@ -1,0 +1,4 @@
+Bu proje, tamamen benim ellerimle hazırlanmış, Flask tabanlı bir sunucu ve ccxt kütüphanesi kullanarak Binance üzerinde çalışan, üç coin ile arbitraj yapabilen gelişmiş bir trading botudur. API anahtarlarının güvenli şekilde base64 ile şifrelenip çözülmesi, likidite ve bakiye kontrolleri, arbitraj fırsatlarının gerçek zamanlı tespiti ve otomatik işlem yürütülmesi gibi kritik özellikleri içerir. 
+Çoklu bot desteği için thread ve kilit mekanizması kullanılarak eşzamanlılık ve stabilite sağlanmıştır. 
+Hem gerçek hem testnet modlarını destekleyerek esnek kullanım imkanı sunar. 
+Bu sistem, finansal piyasalarda algoritmik işlem stratejileri geliştirme ve gerçek zamanlı veri yönetimi konusundaki teknik becerilerimi yansıtan, tamamen benim tarafımdan tasarlanıp kodlanmış bir çözümdür.
