@@ -1,1 +1,1 @@
-# ucgen-arbitraj-bottt
+# ucgen-arbitraj-bot
